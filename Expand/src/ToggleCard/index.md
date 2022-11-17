@@ -1,18 +1,18 @@
 ---
 nav:
-  title: demo组件
+  title: 切换卡片
   path: /components
 ---
 
-## Foo
+## ToggleCard
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'Expand';
+import { ToggleCard } from 'Expand';
 
-export default () => <Foo title="First Demo" />;
+export default () => <ToggleCard RenderDom={<h2>hello world</h2>} />;
 ```
 
 More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo
