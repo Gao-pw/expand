@@ -1,6 +1,6 @@
 ---
 nav:
-  title: demo组件
+  title: 组件
   path: /components
 ---
 
