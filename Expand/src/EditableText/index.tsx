@@ -7,7 +7,7 @@
 
 
 const EditableText = ()=>{
-    return <>这是可编辑文本</>
+    return <>🏗️ building...</>
 }
 
 export default EditableText

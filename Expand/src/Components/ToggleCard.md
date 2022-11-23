@@ -1,6 +1,7 @@
 ---
+order: 1
 nav:
-  # title: 切换卡片
+  title: 组件
   path: /components
 ---
 
